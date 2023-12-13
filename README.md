@@ -15,8 +15,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Diego Valencia</a></b>
+        <samp>&gt; Hey There!
         </samp>
 </h3>
 
@@ -24,7 +23,8 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am an enthusiastic full-stack web application developer from <b>Chile</b> with a profound interest in cybersecurity and Capture The Flag (CTF). 」
+    「 
+I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
     <br>
     <br>
   </samp>
