@@ -21,7 +21,7 @@ I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
 
 - 🖥️ Pentester / Web Programmer.
 - 🚩 CTF player.
-- 🔧 .
+- 🔧 I enjoy creating projects based on my hobbies.
 
 ## 🛠 Tech Stack
 <p align="center">
