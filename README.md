@@ -17,7 +17,7 @@ I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
   </samp>
 </p>
 
-<img align="right" src="pd.png" width="40%">
+<!-- <img align="right" src="pd.png" width="40%"> -->
  
 - 🖥️ <samp>Pentester / Web Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
