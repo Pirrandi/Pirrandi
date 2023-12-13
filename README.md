@@ -18,11 +18,12 @@ I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
 </p>
 
 <img align="right" src="pd.png" width="40%">
- <samp>
-- 🖥️ Pentester / Web Programmer.
-- 🚩 CTF player.
-- 🔧 I enjoy creating projects based on my hobbies.
- </samp>
+ 
+- 🖥️ <samp>Pentester / Web Programmer.</samp>
+- 🚩 <samp>CTF player.</samp>
+- 🔧 <samp>I enjoy creating projects based on my hobbies.</samp>
+
+ 
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
