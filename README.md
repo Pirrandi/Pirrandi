@@ -38,5 +38,5 @@ I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://t.me/standard_error"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/diego-valencia-molina"><img alt="Telegram" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=FFFFFF"></a>
 </p>
