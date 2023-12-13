@@ -23,9 +23,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am an enthusiastic full-stack web application developer from <b>Chile</b> with a profound interest in cybersecurity and Capture The Flag (CTF). 」
     <br>
     <br>
   </samp>
