@@ -19,7 +19,7 @@ I'm Diego Valencia, a cybersecurity analyst and CTF player. 」
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
  
-- 🖥️ <samp>Pentester / Web Programmer.</samp>
+- 🖥️ <samp>Cybersecurity Analyst / Web Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
 - 🔧 <samp>I enjoy creating projects based on my hobbies.</samp>
 
