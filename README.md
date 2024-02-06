@@ -11,7 +11,7 @@
   <samp>
     <br>
     「 
-I'm Diego Valencia, a cybersecurity enthusiast, red teamer, and CTF player. 」
+I'm Diego Valencia, a cybersecurity analyst and CTF player. 」
     <br>
     <br>
   </samp>
