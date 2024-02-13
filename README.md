@@ -11,7 +11,7 @@
   <samp>
     <br>
     「 
-I'm Diego Valencia, a cybersecurity analyst and CTF player. 」
+I'm Diego Valencia, a Cybersecurity Analyst, CyberSOC, Programmer and CTF player. 」
     <br>
     <br>
   </samp>
@@ -19,7 +19,7 @@ I'm Diego Valencia, a cybersecurity analyst and CTF player. 」
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
  
-- 🖥️ <samp>Cybersecurity Analyst / Web Programmer.</samp>
+- 🖥️ <samp>Cybersecurity Analyst, CyberSOC, Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
 - 🔧 <samp>I enjoy creating projects based on my hobbies.</samp>
 
