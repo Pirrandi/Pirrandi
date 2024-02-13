@@ -21,7 +21,7 @@ I'm Diego Valencia, a Cybersecurity Analyst, CyberSOC, Programmer and CTF player
  
 - 🖥️ <samp>Cybersecurity Analyst, CyberSOC, Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
-- 🔧 <samp>I enjoy creating projects based on my hobbies.</samp>
+- 🔧 <samp>I enjoy creating projects based on my hobbies, and design 🎨.</samp>
 
  
 ## 🛠 Tech Stack
