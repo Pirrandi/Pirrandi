@@ -6,6 +6,9 @@
         </samp>
 </h3>
 
+[<img src="https://www.hackthebox.com/badge/image/1533991" width="210" height="50">](https://app.hackthebox.com/profile/1533991)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/pirrandi.png" width="210" height="50">](https://www.hackthebox.eu/home/users/profile/1533991)
+
 
 <p align="center"> 
   <samp>
