@@ -14,7 +14,7 @@
   <samp>
     <br>
     「 
-I'm Diego Valencia, a Cybersecurity Analyst, CyberSOC, Programmer and CTF player. 」
+I'm Diego Valencia, a Ethical Hacker, CyberSOC, Programmer and CTF player. 」
     <br>
     <br>
   </samp>
