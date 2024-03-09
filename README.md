@@ -22,7 +22,7 @@ I'm Diego Valencia, a Ethical Hacker, CyberSOC, Programmer and CTF player. 」
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
  
-- 🖥️ <samp>Cybersecurity Analyst, CyberSOC, Programmer.</samp>
+- 🖥️ <samp>Ethical Hacker, CyberSOC, Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
 - 🔧 <samp>I enjoy creating projects based on my hobbies, and design 🎨.</samp>
 
