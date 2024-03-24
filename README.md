@@ -14,7 +14,7 @@
   <samp>
     <br>
     「 
-I'm Diego Valencia, a Ethical Hacker, CyberSOC, Programmer and CTF player. 」
+I'm Diego Valencia, a Pentester, CyberSOC, Programmer and CTF player. 」
     <br>
     <br>
   </samp>
@@ -22,7 +22,7 @@ I'm Diego Valencia, a Ethical Hacker, CyberSOC, Programmer and CTF player. 」
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
  
-- 🖥️ <samp>Ethical Hacker, CyberSOC, Programmer.</samp>
+- 🖥️ <samp>Pentester, CyberSOC, Programmer.</samp>
 - 🚩 <samp>CTF player.</samp>
 - 🔧 <samp>I enjoy creating projects based on my hobbies, and design 🎨.</samp>
 
