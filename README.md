@@ -38,8 +38,8 @@ Pentester, CyberSOC, Programmer and CTF player. 」
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
 </p>
-
+<!--
 ## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-valencia-molina"><img alt="Telegram" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=FFFFFF"></a>
-</p>
+</p>-->
