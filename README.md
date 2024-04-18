@@ -7,14 +7,14 @@
         </samp>
 </h3>
 
-<div style="text-align: center;">
+<p align="center"> 
     <a href="https://app.hackthebox.com/profile/1533991" style="display: inline-block; margin-right: 20px;">
         <img src="https://www.hackthebox.com/badge/image/1533991" alt="Hack The Box Badge" width="210" height="50">
     </a>
     <a href="https://tryhackme.com/p/pirrandi" style="display: inline-block;">
         <img src="https://tryhackme-badges.s3.amazonaws.com/pirrandi.png" alt="TryHackMe Badge" width="210" height="50">
     </a>
-</div>
+</p>
 
 
 
