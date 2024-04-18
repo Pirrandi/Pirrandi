@@ -14,7 +14,7 @@
   <samp>
     <br>
     「 
-I'm Diego Valencia, a Pentester, CyberSOC, Programmer and CTF player. 」
+Pentester, CyberSOC, Programmer and CTF player. 」
     <br>
     <br>
   </samp>
