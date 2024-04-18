@@ -2,7 +2,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There
+        <samp>&gt; 
+𝙷𝚎𝚢 𝚃𝚑𝚎𝚛𝚎
         </samp>
 </h3>
 
@@ -22,7 +23,11 @@ Pentester, CyberSOC, Programmer and CTF player. 」
 <!-- <img align="right" src="pd.png" width="40%"> -->
 
  
-## 🛠 Tech Stack
+<h3 align="center">
+        <samp>&gt;
+𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+        </samp>
+</h3>
 <p align="center">
   
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
