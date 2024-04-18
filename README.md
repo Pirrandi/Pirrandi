@@ -7,8 +7,15 @@
         </samp>
 </h3>
 
-[<img src="https://www.hackthebox.com/badge/image/1533991" width="210" height="50">](https://app.hackthebox.com/profile/1533991)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/pirrandi.png" width="210" height="50">](https://tryhackme.com/p/pirrandi)
+<div style="text-align: center;">
+    <a href="https://app.hackthebox.com/profile/1533991" style="display: inline-block; margin-right: 20px;">
+        <img src="https://www.hackthebox.com/badge/image/1533991" alt="Hack The Box Badge" width="210" height="50">
+    </a>
+    <a href="https://tryhackme.com/p/pirrandi" style="display: inline-block;">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/pirrandi.png" alt="TryHackMe Badge" width="210" height="50">
+    </a>
+</div>
+
 
 
 <p align="center"> 
@@ -22,12 +29,13 @@ Pentester, CyberSOC, Programmer and CTF player. 」
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
 
- 
+ ##
 <h3 align="center">
         <samp>&gt;
 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
         </samp>
 </h3>
+<br>
 <p align="center">
   
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white">
