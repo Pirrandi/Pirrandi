@@ -2,7 +2,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!
+        <samp>&gt; Hey There
         </samp>
 </h3>
 
