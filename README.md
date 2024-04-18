@@ -16,7 +16,6 @@
     「 
 Pentester, CyberSOC, Programmer and CTF player. 」
     <br>
-    <br>
   </samp>
 </p>
 
