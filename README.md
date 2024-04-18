@@ -21,10 +21,6 @@ Pentester, CyberSOC, Programmer and CTF player. 」
 </p>
 
 <!-- <img align="right" src="pd.png" width="40%"> -->
- 
-- 🖥️ <samp>Pentester, CyberSOC, Programmer.</samp>
-- 🚩 <samp>CTF player.</samp>
-- 🔧 <samp>I enjoy creating projects based on my hobbies, and design 🎨.</samp>
 
  
 ## 🛠 Tech Stack
