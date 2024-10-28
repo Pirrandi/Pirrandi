@@ -18,7 +18,8 @@
 
 
 
-<p align="center"> 
+
+<!--<p align="center"> 
   <samp>
     <br>
     「 
@@ -26,7 +27,7 @@ Pentester, CyberSOC, Programmer and CTF player. 」
     <br>
   </samp>
 </p>
-
+-->
 <!-- <img align="right" src="pd.png" width="40%"> -->
 
  ##
