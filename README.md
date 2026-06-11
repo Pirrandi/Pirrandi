@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Diego Valencia (pirra)</samp>
+  <samp>&gt; Diego Valencia (pirrandi)</samp>
 </h3>
 
 <p align="center">
