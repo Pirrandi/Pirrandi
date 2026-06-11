@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/eWPTX-passed-darkred?style=for-the-badge">
   <img src="https://img.shields.io/badge/BSCP-in%20progress-555?style=for-the-badge">
   <a href="https://github.com/brufdev/many-notes/security/advisories/GHSA-wg8j-9c2g-xh6r#event-750261">
-    <img src="https://img.shields.io/badge/CVE%20GHSA--wg8j--9c2g--xh6r-CRITICAL%209.6-8b0000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/CVE--2026--54053-CRITICAL%209.6-8b0000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
